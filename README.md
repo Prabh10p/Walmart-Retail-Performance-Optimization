@@ -1,5 +1,5 @@
 
-# 📊 Walmart Retail Performance Optimization(https://public.tableau.com/app/profile/prabhjot.singh7010/viz/WalmartRetailPerformanceOptimizationDashboard/Dashboard1)
+# 📊 Walmart Retail Performance Optimization
 
 ![Facebook vs AdWords](https://cdn.prod.website-files.com/65d8ee5f025f02594c614c17/677e6eec4ac51f76b61392f4_66143cf720b8195f15298a0b_1.webp)
 
