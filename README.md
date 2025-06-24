@@ -30,7 +30,7 @@ This is end-to-end analytics project analyzes over **1.1 million retail transact
 
 - **Data Engineering**: Cleaned, transformed, and indexed data using SQL for performance optimization.
 - **Customer Segmentation**: Used Pyhton and KMeans clustering to analyze behaviors of 300K+ customers.
-- **Predictive Modeling**: Developed a Python based regression model (R² = 0.80) to forecast purchase amounts.
+- **Predictive Modeling**: Developed a Python based regression model (R² = 0.83) to forecast purchase amounts.
 - **Business Intelligence**: Delivered a Tableau dashboard covering AOV trends, SKU performance, and segment engagement to inform strategy.
 
 
