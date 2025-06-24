@@ -76,7 +76,7 @@ Age, gender, marital status, city category vs. purchase behavior
 
 ## 📈 5. Predictive Modeling (Regression Analysis)
 
-- Built a linear regression model (R² = 0.80) to predict purchase amounts.
+- Built a linear regression model (R² = 0.83) to predict purchase amounts.
 - Model features included: gender, age group, city category, marital status, and product category.
 - Performed feature selection and residual analysis to ensure model validity.
 - Output used to identify potential high-value customers and estimate future spend patterns.
